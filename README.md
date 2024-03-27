@@ -75,6 +75,7 @@ temple.html
 </html>
 
 school.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -94,10 +95,8 @@ school.html
 </html>
 
 
-
-
-
 cinema.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -116,6 +115,7 @@ cinema.html
 </html>
 
 party.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -138,7 +138,17 @@ party.html
 
 
 ## OUTPUT
-[text](<../Pictures/Screenshots/web image map>)
+
+![alt text](TVK/mapapp/static/map.png)
+
+![alt text](TVK/mapapp/static/temple.png)
+
+![alt text](TVK/mapapp/static/school.png)
+
+![alt text](TVK/mapapp/static/cinema.png)
+
+![alt text](TVK/mapapp/static/party.png)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
